@@ -16,7 +16,7 @@ public class EjerciciosAmpliString {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Scanner tec = new Scanner(System.in);
+        Scanner tec = new Scanner(System.in);
 
         double plus4 = 0;
         double moins4 = 0;
@@ -55,7 +55,8 @@ public class EjerciciosAmpliString {
         System.out.printf("El porcentaje de palabras con menos de 4 caracteres es: %.2f%%%n", mediaMoins);
         System.out.printf("El porcentaje de palabras con 4 o mas caracteres es: %.2f%%%n", mediaPlus);
     }
-    
-}    }
-    
+
 }
+
+
+

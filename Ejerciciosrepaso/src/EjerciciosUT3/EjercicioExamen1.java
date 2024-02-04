@@ -23,7 +23,9 @@ public class EjercicioExamen1 {
         teclado.nextLine();
         int resultado = 0;
 
-        char ope = teclado.nextLine().charAt(0);//esto es para que en la entrada que coge la linea le estamos diciendo con el charat que coga el valor
+        char ope = teclado.nextLine().charAt(0);
+        //esto es para que en la entrada que coge la 
+        //linea le estamos diciendo con el charat que coga el valor
         //de la posicion 0
 
         switch (ope) {

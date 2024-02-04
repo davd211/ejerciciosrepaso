@@ -14,7 +14,8 @@ public class Ejercicio2AmpliString {
 
     /**
      * @param args the command line arguments
-     *///Solicitar una palabra por teclado (si incluye espacios eliminarlos) Y mostrar la palabra y su linvertida (efecto espejo) Por ejemplo si la palabra es "amiga", la cadena espejo sería "amigaagima"
+     *///Solicitar una palabra por teclado (si incluye espacios eliminarlos) 
+    //Y mostrar la palabra y su linvertida (efecto espejo) Por ejemplo si la palabra es "amiga", la cadena espejo sería "amigaagima"
   public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
